@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "862788715653",
+    "project_id": "baonguyen-c2c5c",
+    "storage_bucket": "baonguyen-c2c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862788715653:android:56ba6c08e4ec154f2f95ec",
+        "android_client_info": {
+          "package_name": "com.chotchachi.example_firebase_cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862788715653-e9jbk9mm1m86boor3224qtcnj3i5p1id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmy4eRzTCWa2Xw8k7eDXuOPuv63Ojck8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862788715653-e9jbk9mm1m86boor3224qtcnj3i5p1id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862788715653:android:20dd6f4a1e853fc22f95ec",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862788715653-e9jbk9mm1m86boor3224qtcnj3i5p1id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmy4eRzTCWa2Xw8k7eDXuOPuv63Ojck8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862788715653-e9jbk9mm1m86boor3224qtcnj3i5p1id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
